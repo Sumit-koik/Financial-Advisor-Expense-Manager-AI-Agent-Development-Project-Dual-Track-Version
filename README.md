@@ -6,4 +6,4 @@ Researched Agentic AI architecture
 Designed system workflow
 Selected tech stack (Python, OpenAI API, Streamlit)
 Divided team roles
-Created project repository
+Created project repository.
