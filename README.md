@@ -7,3 +7,10 @@ Designed system workflow
 Selected tech stack (Python, OpenAI API, Streamlit)
 Divided team roles
 Created project repository.
+
+Week 2 Progress
+
+Implemented first AI agent prototype.
+Added prompt template for financial advice.
+Created conversation memory module.
+Tested agent responses.
