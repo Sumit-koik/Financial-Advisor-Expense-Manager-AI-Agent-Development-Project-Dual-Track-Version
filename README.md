@@ -14,3 +14,15 @@ Implemented first AI agent prototype.
 Added prompt template for financial advice.
 Created conversation memory module.
 Tested agent responses.
+
+Week 3 Progress
+
+Implemented the Expense Management Module including:
+
+ Expense data structure design  
+ Manual expense input module  
+ AI-based expense categorization  
+ JSON storage for expense records  
+ Financial analysis functions  
+ Category-wise expenditure visualization  
+ Integration with AI agent loop
