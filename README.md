@@ -33,8 +33,8 @@ Upgrade your project from Expense Tracker → AI Financial Advisor.
 
 Add:
 
-1️ Spending pattern analysis
-2️ Financial health insights
-3️ Budget recommendation system
-4️ Expense trend visualization
-5️ AI advisor response
+ Spending pattern analysis
+ Financial health insights
+ Budget recommendation system
+ Expense trend visualization
+ AI advisor response
