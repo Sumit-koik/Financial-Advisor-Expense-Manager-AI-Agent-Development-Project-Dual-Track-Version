@@ -32,9 +32,8 @@ Implemented the Expense Management Module including:
 Upgrade your project from Expense Tracker → AI Financial Advisor.
 
 Add:
-
- Spending pattern analysis
- Financial health insights
- Budget recommendation system
- Expense trend visualization
- AI advisor response
+Spending pattern analysis
+Financial health insights
+Budget recommendation system
+Expense trend visualization
+AI advisor response
