@@ -41,3 +41,17 @@ Budget recommendation system
 Expense trend visualization
 
 AI advisor response
+
+week 5
+
+FINAL WEEK 5 OUTPUT
+
+AI Agent responding to queries
+
+Tool-based system
+
+Decision-making logic
+
+Interactive chatbot
+
+Financial intelligence
