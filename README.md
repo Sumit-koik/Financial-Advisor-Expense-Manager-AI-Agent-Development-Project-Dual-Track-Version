@@ -55,3 +55,26 @@ Decision-making logic
 Interactive chatbot
 
 Financial intelligence
+
+week 6
+
+Real receipt scanning (OCR)
+
+ Automatic expense detection
+ 
+ Spending prediction
+ 
+ Goal tracking
+
+Smart financial insight 
+
+week 7
+ AI Expense Tracker
+ 
+ Smart Financial Advisor
+ 
+ Prediction System
+ 
+ Budget Analyzer
+ 
+ Interactive Chatbot
